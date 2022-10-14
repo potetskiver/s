@@ -1,0 +1,15 @@
+body {
+	
+}
+
+h1 {
+  text-align: center;
+}
+
+.dl {
+  position: absolute;
+  right: 340px;
+  left: 340px;
+  bottom: 15px;
+  top: 775px;
+}
