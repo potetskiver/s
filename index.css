@@ -7,7 +7,7 @@ h1 {
 }
 
 .dl {
-  position: absolute;
+  position: fixed;
   right: 340px;
   left: 340px;
   bottom: 15px;
